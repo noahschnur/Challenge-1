@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header Styling */
+/* Header Styling Start*/
 
 .header {
     padding: 20px;
@@ -51,8 +51,9 @@ a {
 p {
     font-size: 16px;
 }
+/* Header Style End */
 
-/* Hero Styles */
+/* Hero Style */
 
 .hero {
     height: 800px;
@@ -81,7 +82,7 @@ p {
     margin-left: 20px;
 }
 
-/*Benefits*/
+/* Benefits Style Start */
 
 .benefits {
     margin-right: 20px;
@@ -109,7 +110,7 @@ p {
     color: #ffffff;
 }
 
-/*H3 Benefits */
+/* H3 Benefits */
 
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -126,7 +127,7 @@ p {
     text-align: center;
 }
 
-/*IMG Benefits */
+/* IMG Benefits */
 
 .benefit-lead img {
     display: block;
@@ -146,7 +147,9 @@ p {
     max-width: 150px;
 }
 
-/*Content Sectgions */
+/* Benefits End */
+
+/* Content Sections */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -175,7 +178,7 @@ p {
     color: #ffffff;
 }
 
-/*IMG Content */
+/* IMG Content */
 
 .search-engine-optimization img {
     max-height: 200px;
@@ -189,7 +192,7 @@ p {
     max-height: 200px;
 }
 
-/*H2 Content */
+/* H2 Content */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -206,7 +209,7 @@ p {
     font-size: 36px;
 }
 
-/*Footer */
+/* Footer */
 
 .footer {
     padding: 30px;
